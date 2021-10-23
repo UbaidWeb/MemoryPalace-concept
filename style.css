@@ -1,0 +1,61 @@
+h1{
+
+     font-family: 'Bungee Inline', cursive;
+     font-size: 4.2rem;
+     padding-bottom: 2%;
+     margin-top: 2%;
+}
+
+#intro p{
+    font-family: 'VT323', monospace;
+    font-size: 1.7rem;
+}
+#intro{
+
+   background-color:black;
+  color:#6155a6
+
+}
+
+.vr-girl{
+width: 50%;
+
+}
+
+.container-fluid{
+    text-align: center;
+    padding: 3% 5% 0 5%
+   
+}
+
+.navbar-brand{
+    font-family: 'Bungee Inline', cursive;
+
+}
+
+.navbar-nav{
+
+    font-family: 'VT323', monospace;
+    font-size: 1.5rem;
+}
+
+.nav-item{
+    padding: 3%;
+}
+
+.learn, .shop{
+    color: #6155a6;
+}
+
+.learn{
+    position: absolute;
+    top:40%;
+    right: 70%;
+
+}
+
+.shop{
+    position: absolute;
+    top:40%;
+    left: 70%;
+}
